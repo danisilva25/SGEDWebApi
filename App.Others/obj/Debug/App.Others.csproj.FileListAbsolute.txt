@@ -1,0 +1,6 @@
+C:\Users\Danilo\Desktop\SGED\App.Others\bin\Debug\App.Others.dll
+C:\Users\Danilo\Desktop\SGED\App.Others\bin\Debug\App.Others.pdb
+C:\Users\Danilo\Desktop\SGED\App.Others\obj\Debug\App.Others.csproj.AssemblyReference.cache
+C:\Users\Danilo\Desktop\SGED\App.Others\obj\Debug\App.Others.csproj.CoreCompileInputs.cache
+C:\Users\Danilo\Desktop\SGED\App.Others\obj\Debug\App.Others.dll
+C:\Users\Danilo\Desktop\SGED\App.Others\obj\Debug\App.Others.pdb

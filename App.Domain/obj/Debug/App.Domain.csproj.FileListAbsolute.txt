@@ -1,0 +1,9 @@
+C:\Users\Danilo\Desktop\SGED\App.Domain\bin\Debug\App.Domain.dll
+C:\Users\Danilo\Desktop\SGED\App.Domain\bin\Debug\App.Domain.pdb
+C:\Users\Danilo\Desktop\SGED\App.Domain\bin\Debug\App.Others.dll
+C:\Users\Danilo\Desktop\SGED\App.Domain\bin\Debug\App.Others.pdb
+C:\Users\Danilo\Desktop\SGED\App.Domain\obj\Debug\App.Domain.csproj.AssemblyReference.cache
+C:\Users\Danilo\Desktop\SGED\App.Domain\obj\Debug\App.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Danilo\Desktop\SGED\App.Domain\obj\Debug\App.Domain.csproj.CopyComplete
+C:\Users\Danilo\Desktop\SGED\App.Domain\obj\Debug\App.Domain.dll
+C:\Users\Danilo\Desktop\SGED\App.Domain\obj\Debug\App.Domain.pdb
